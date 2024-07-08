@@ -1,2 +1,2 @@
-# Rock_paper_scissors
-Making of Rock paper scissors game using the HTML ,CSS and JAVASCRIPT project
+# rock-paper-scissors-project
+A simple DOM rock paper scissors JavaScript Project.
